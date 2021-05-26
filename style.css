@@ -69,7 +69,7 @@ html,body{
     -moz-box-shadow: 2px 2px 10px -2px rgba(41,39,41,1);
     box-shadow: 2px 2px 10px -2px rgba(41,39,41,1);
 }
-  .caja h1{font-family: 'Lovers Quarrel', cursive;font-size: 5rem;}
+  .caja h1{font-family: 'Lovers Quarrel', cursive;font-size: 4rem;line-height: 0.9;font-weight: 600;}
   .contenedor_preguntas{display: flex;justify-content: space-around;margin-top: 20px;}
   .contenedor_preguntas a{display: block;width: max-content;border-radius: 5px;color: #fff;text-decoration: none;transition: .5s all ease;display: flex;align-items: center;}
   .contenedor_preguntas a.si{background: red;padding: 10px 40px !important;font-size: 20px;font-weight: 700;}
