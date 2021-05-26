@@ -1,7 +1,8 @@
 /*corazones*/
 html,body{
     height:100%
-  }
+   font-family: 'Montserrat', sans-serif;
+}
   
   .bg_heart {
       position: relative;
@@ -99,6 +100,7 @@ html,body{
     transition-property: transform, opacity;
     transition-duration: .4s;
   }
+
   
   /* Final state */
   .fancybox-slide--current .animated-modal,
